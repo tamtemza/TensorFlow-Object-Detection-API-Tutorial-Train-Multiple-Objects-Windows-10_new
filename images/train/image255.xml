@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pj_NN_หมวก</folder>
+	<filename>image255.jpg</filename>
+	<path>C:\Users\DonoT\Desktop\Pj_NN_หมวก\Pj_NN_หมวก\image255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>597</width>
+		<height>587</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>324</xmin>
+			<ymin>74</ymin>
+			<xmax>518</xmax>
+			<ymax>337</ymax>
+		</bndbox>
+	</object>
+</annotation>

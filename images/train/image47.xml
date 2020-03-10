@@ -1,0 +1,26 @@
+<annotation>
+	<folder>motorcly</folder>
+	<filename>image47.jpg</filename>
+	<path>C:\Users\user\Downloads\motorcly\image47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>130</ymin>
+			<xmax>1965</xmax>
+			<ymax>1071</ymax>
+		</bndbox>
+	</object>
+</annotation>

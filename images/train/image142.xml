@@ -1,0 +1,38 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>image142.jpg</filename>
+	<path>C:\Users\praweena\Desktop\New folder\image142.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>2</ymin>
+			<xmax>120</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>5</ymin>
+			<xmax>274</xmax>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

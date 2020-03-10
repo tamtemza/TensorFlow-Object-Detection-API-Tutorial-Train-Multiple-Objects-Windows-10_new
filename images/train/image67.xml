@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New folder</folder>
+	<filename>image67.jpg</filename>
+	<path>C:\Users\praweena\Desktop\New folder\image67.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>699</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>196</ymin>
+			<xmax>476</xmax>
+			<ymax>387</ymax>
+		</bndbox>
+	</object>
+</annotation>

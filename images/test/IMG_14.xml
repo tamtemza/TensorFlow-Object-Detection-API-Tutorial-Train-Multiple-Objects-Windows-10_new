@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CNN</folder>
+	<filename>IMG_14.jpg</filename>
+	<path>C:\Users\user\Downloads\CNN\IMG_14.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>930</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>67</ymin>
+			<xmax>802</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>

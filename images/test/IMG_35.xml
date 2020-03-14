@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CNN</folder>
+	<filename>IMG_35.jpg</filename>
+	<path>C:\Users\user\Downloads\CNN\IMG_35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>341</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>63</ymin>
+			<xmax>363</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

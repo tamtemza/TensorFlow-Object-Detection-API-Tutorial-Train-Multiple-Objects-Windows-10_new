@@ -1,0 +1,26 @@
+<annotation>
+	<folder>CNN</folder>
+	<filename>IMG_8.jpg</filename>
+	<path>C:\Users\user\Downloads\CNN\IMG_8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>511</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorcycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>77</ymin>
+			<xmax>681</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GUN</folder>
+	<filename>IMG_182.jpg</filename>
+	<path>C:\Users\praweena\Pictures\GUN\IMG_182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>41</ymin>
+			<xmax>222</xmax>
+			<ymax>90</ymax>
+		</bndbox>
+	</object>
+</annotation>

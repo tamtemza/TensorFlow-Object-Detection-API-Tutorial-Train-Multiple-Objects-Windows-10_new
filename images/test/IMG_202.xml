@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Pj_NN_หมวก</folder>
+	<filename>IMG_202.jpg</filename>
+	<path>C:\Users\donut\Desktop\Pj_NN_หมวก\IMG_202.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Helmet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>11</ymin>
+			<xmax>146</xmax>
+			<ymax>147</ymax>
+		</bndbox>
+	</object>
+</annotation>
